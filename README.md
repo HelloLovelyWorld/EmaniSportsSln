@@ -28,3 +28,15 @@ https://www.apress.com/gp/book/9781484254394.
 ### :sparkles: Chapter 7 - Using Bootstrap and Pagination :sparkles:
 
 ![Bootstrap Screenshot](https://github.com/HelloLovelyWorld/EmaniSportsSln/blob/master/Images/Part6.jfif)
+
+### :sparkles: Chapter 8 - Add, Filter, and Highlight "Category" :sparkles:
+
+![Category Screenshot](https://github.com/HelloLovelyWorld/EmaniSportsSln/blob/master/Images/category.JPG)
+
+### :sparkles: Chapter 8 - Add Shopping Cart and Session Data :sparkles:
+
+![Cart Screenshot](https://github.com/HelloLovelyWorld/EmaniSportsSln/blob/master/Images/Cart.JPG)
+
+### :sparkles: Chapter 8 - Expand Test Explorer to Show All Tests :sparkles:
+
+![Test Explorer Screenshot](https://github.com/HelloLovelyWorld/EmaniSportsSln/blob/master/Images/Tests.JPG)
